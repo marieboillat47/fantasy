@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://marieboillat47.github.io/fantasy/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://marieboillat47.github.io/fantasy/</loc>
+</url>
+<url>
+<loc>https://marieboillat47.github.io/fantasy/la-tour-de-garde.html</loc>
+<lastmod>2022-10-24T18:35:25+02:00</lastmod>
+<image:image>
+<image:loc>https://marieboillat47.github.io/fantasy/media/posts/1/tour_de_garde.jpeg</image:loc>
+<image:title><![CDATA[Affice_tour_garde]]></image:title>
+</image:image>
+</url>
+</urlset>

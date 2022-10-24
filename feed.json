@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "A Word About Fantasy",
+    "description": "",
+    "home_page_url": "https://marieboillat47.github.io/fantasy",
+    "feed_url": "https://marieboillat47.github.io/fantasy/feed.json",
+    "user_comment": "",
+    "icon": "https://marieboillat47.github.io/fantasy/media/website/icone.png",
+    "author": {
+        "name": "Marie Boillat"
+    },
+    "items": [
+        {
+            "id": "https://marieboillat47.github.io/fantasy/la-tour-de-garde.html",
+            "url": "https://marieboillat47.github.io/fantasy/la-tour-de-garde.html",
+            "title": "La Tour de Garde",
+            "summary": "Magnifique saga de fantasy française écrite à quatre mains ! Celle-ci se compose de deux trilogie distinctes, Capitale du Nord et Capitale du Sud, présentant les deux pôles d'un même monde. Chacune des Citées a son propre style littéraire, sa propre mélodie, sa propre esthétique,&hellip;",
+            "content_html": "<p>Magnifique saga de fantasy française écrite à quatre mains ! Celle-ci se compose de deux trilogie distinctes, Capitale du Nord et Capitale du Sud, présentant les deux pôles d'un même monde. Chacune des Citées a son propre style littéraire, sa propre mélodie, sa propre esthétique, ses propres lois et ses propres personnages. Si tout semble les différencier, la passion pour le jeu de la \"Tour de la Garde\" et une menace commune les unit. <strong>À découvrir absolument !!!!</strong></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://marieboillat47.github.io/fantasy/media/posts/1/tour_de_garde.jpeg\" sizes=\"100vw\" srcset=\"https://marieboillat47.github.io/fantasy/media/posts/1/responsive/tour_de_garde-xs.jpeg 300w ,https://marieboillat47.github.io/fantasy/media/posts/1/responsive/tour_de_garde-sm.jpeg 480w ,https://marieboillat47.github.io/fantasy/media/posts/1/responsive/tour_de_garde-md.jpeg 768w ,https://marieboillat47.github.io/fantasy/media/posts/1/responsive/tour_de_garde-lg.jpeg 1024w ,https://marieboillat47.github.io/fantasy/media/posts/1/responsive/tour_de_garde-xl.jpeg 1360w ,https://marieboillat47.github.io/fantasy/media/posts/1/responsive/tour_de_garde-2xl.jpeg 1600w\"  alt=\"Affice_tour_garde\" width=\"704\" height=\"1000\"></figure>",
+            "author": {
+                "name": "Marie Boillat"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-24T18:35:25+02:00",
+            "date_modified": "2022-10-24T18:35:25+02:00"
+        }
+    ]
+}

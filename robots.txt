@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marieboillat47.github.io/fantasy/sitemap.xml
